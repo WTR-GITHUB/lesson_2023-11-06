@@ -1,4 +1,4 @@
-def sum_umbers(a: int, b: int) -> int:
+def sum_digits(a: int, b: int) -> int:
     return a + b
 
 def get_int():
