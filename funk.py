@@ -1,5 +1,5 @@
 def sum_num(a: int, b: int) -> int:
-    return a + b
+    return a / b
 
 def get_int():
     a = int(input("Enter a: "))
